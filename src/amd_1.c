@@ -24,7 +24,7 @@
  * is performed (this was done in AMD_valid).
  */
 
-#include "amd_internal.h"
+#include "C:/Users/aasth/Desktop/star_humanoid/qpSWIFT/include/amd_internal.h"
 
 GLOBAL void AMD_1
 (

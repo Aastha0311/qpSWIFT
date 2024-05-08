@@ -16,7 +16,7 @@
  * This input condition is NOT checked.  This routine is not user-callable.
  */
 
-#include "amd_internal.h"
+#include "C:/Users/aasth/Desktop/star_humanoid/qpSWIFT/include/amd_internal.h"
 
 /* ========================================================================= */
 /* === AMD_preprocess ====================================================== */

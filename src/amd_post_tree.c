@@ -10,7 +10,7 @@
 
 /* Post-ordering of a supernodal elimination tree.  */
 
-#include "amd_internal.h"
+#include "C:/Users/aasth/Desktop/star_humanoid/qpSWIFT/include/amd_internal.h"
 
 GLOBAL Int AMD_post_tree
 (

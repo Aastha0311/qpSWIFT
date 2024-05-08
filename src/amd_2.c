@@ -13,7 +13,7 @@
  * AMD_postorder routine.
  */
 
-#include "amd_internal.h"
+#include "C:/Users/aasth/Desktop/star_humanoid/qpSWIFT/include/amd_internal.h"
 
 /* ========================================================================= */
 /* === clear_flag ========================================================== */

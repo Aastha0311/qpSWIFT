@@ -5,7 +5,7 @@
 *
 *
 *********************************************************************************************************/
-#include "Auxilary.h"
+#include "C:/Users/aasth/Desktop/star_humanoid/qpSWIFT/include/Auxilary.h"
 
 /*! Forms the Upper triangular part of the kkt matrix
 *

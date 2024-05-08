@@ -1,0 +1,7 @@
+LICENSE
+README.md
+qpSWIFT.egg-info/PKG-INFO
+qpSWIFT.egg-info/SOURCES.txt
+qpSWIFT.egg-info/dependency_links.txt
+qpSWIFT.egg-info/requires.txt
+qpSWIFT.egg-info/top_level.txt

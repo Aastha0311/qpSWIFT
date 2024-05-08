@@ -33,7 +33,7 @@
  * AMD_OK_BUT_JUMBLED).
  */
 
-#include "amd_internal.h"
+#include "C:/Users/aasth/Desktop/star_humanoid/qpSWIFT/include/amd_internal.h"
 
 GLOBAL Int AMD_valid
 (

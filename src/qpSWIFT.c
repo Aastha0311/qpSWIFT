@@ -21,7 +21,7 @@ Permut = amd(kkt) - 1;
 
 *********************************************************************************************************/
 
-#include "qpSWIFT.h"
+#include "C:/Users/aasth/Desktop/star_humanoid/qpSWIFT/include/qpSWIFT.h"
 
 /* Setup Function 
 * Allocates memory for all the variables 
